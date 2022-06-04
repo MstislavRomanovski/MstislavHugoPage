@@ -35,4 +35,4 @@ ru:
       - name: Контакты
         url: '#contact'
       - weight: 60
-
+        - id: toggle_navigation
